@@ -1,0 +1,406 @@
+music = {
+	song = "CHI1"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = CHI
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "CHI2"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+                                is_at_war=no
+				NOT = {
+					OR = {
+						tag = CHI
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "CHI3"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = CHI
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "CHI4"
+	
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = CHI
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "CHI5"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = CHI
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC1"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC2"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC3"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC4"
+	
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC5"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC6"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC7"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC8"
+	
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC9"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC10"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC11"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC12"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC13"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+					OR = (  tag = CHI
+					)
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC14"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC15"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC16"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC17"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC18"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+					OR = (  tag = CHI
+					)
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC19"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+
+music = {
+	song = "PRC20"
+	
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = PRC
+					}
+				}
+		}		
+	}	
+}
+##Yuyisen Harock

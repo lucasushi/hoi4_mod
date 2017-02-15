@@ -1,0 +1,148 @@
+music = {
+	name = "PRC1"
+	file = "PRC1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC2"
+	file = "PRC2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC3"
+	file = "PRC3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC4"
+	file = "PRC4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC5"
+	file = "PRC5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC6"
+	file = "PRC6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC7"
+	file = "PRC7.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "PRC8"
+	file = "PRC8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC9"
+	file = "PRC9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC10"
+	file = "PRC10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC11"
+	file = "PRC11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC12"
+	file = "PRC12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC13"
+	file = "PRC13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC14"
+	file = "PRC14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC15"
+	file = "PRC15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC16"
+	file = "PRC16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC17"
+	file = "PRC17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC18"
+	file = "PRC18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC19"
+	file = "PRC19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PRC20"
+	file = "PRC20.ogg"
+	volume = 0.65
+}
+music = {
+	name = "CHI1"
+	file = "CHI1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CHI2"
+	file = "CHI2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CHI3"
+	file = "CHI3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CHI4"
+	file = "CHI4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CHI5"
+	file = "CHI5.ogg"
+	volume = 0.65
+}
